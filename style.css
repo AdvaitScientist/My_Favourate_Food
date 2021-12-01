@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 300;
+    font-family: fantasy;
+}
+
+#apps {
+    width: 2500px;
+    height:  1544px;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
